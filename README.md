@@ -1,4 +1,4 @@
-# mini-project
+# Virtual Application Menu (Sem 4 mini project)
 
 Problem Definition: To make a virtual application menu that opens different apps based on the location and configuration of our fingers. The menu must open different apps when we point at different places in the webcam with our index finger and middle finger raised. 
 
