@@ -7,7 +7,6 @@ import HandTrackingModule as htm
 import webbrowser
 
 
-
 brushThickness = 10
 eraserThickness = 100
 
